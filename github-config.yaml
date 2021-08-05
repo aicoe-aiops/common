@@ -96,6 +96,9 @@ orgs:
       data-science-workflows:
         has_projects: false
         has_wiki: false
+      disk-health-predictor:
+        has_projects: false
+        has_wiki: false
       fedora-mailing-list-analysis:
         description:
           "This will be the repo for the Fedora mailing list sentiment analysis
@@ -215,6 +218,7 @@ orgs:
         repos:
           ceph_drive_failure: read
           cloud-price-analysis: triage
+          disk-health-predictor: read
           insights-invocation-hints: triage
           ocp-alert-prediction: triage
       SourceOps:
@@ -236,6 +240,7 @@ orgs:
           cpaas-automated-failure-analysis: admin
           data-science-workflow-examples: admin
           data-science-workflows: admin
+          disk-health-predictor: admin
           fedora-mailing-list-analysis: admin
           flake-qe: admin
           github-labeler: admin
@@ -297,6 +302,7 @@ orgs:
           configuration-files-analysis: triage
           data-science-workflow-examples: triage
           data-science-workflows: triage
+          disk-health-predictor: triage
           fedora-mailing-list-analysis: triage
           flake-qe: triage
           insights-configuration-files-analysis: triage
