@@ -43,6 +43,10 @@ orgs:
       - subpop
       - suppathak
       - xiormeesh
+      - radekvokal
+      - mklika
+      - falox
+      - smarterclayton
     members_can_create_repositories: false
     name: ""
     repos:
@@ -214,6 +218,10 @@ orgs:
           - chambridge
           - kholdaway
           - ilya-kolchinsky
+          - radekvokal
+          - mklika
+          - falox
+          - smarterclayton
         privacy: closed
         repos:
           ceph_drive_failure: read
@@ -221,6 +229,7 @@ orgs:
           disk-health-predictor: read
           insights-invocation-hints: triage
           ocp-alert-prediction: triage
+          openshift-workload-fingerprinting: triage
       SourceOps:
         description: "This is our SourceOps team, they keep the source fresh."
         maintainers:
