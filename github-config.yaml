@@ -52,6 +52,7 @@ orgs:
       - ri-dubey
       - dgpatelgit
       - nicolekay2
+      - sochotnicky
     members_can_create_repositories: false
     name: ""
     repos:
@@ -232,6 +233,7 @@ orgs:
           - ri-dubey
           - dgpatelgit
           - nicolekay2
+          - sochotnicky
         privacy: closed
         repos:
           ceph_drive_failure: read
