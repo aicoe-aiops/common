@@ -53,6 +53,8 @@ orgs:
       - dgpatelgit
       - nicolekay2
       - sochotnicky
+      - tkasparek
+      - jdobes
     members_can_create_repositories: false
     name: ""
     repos:
@@ -234,6 +236,8 @@ orgs:
           - dgpatelgit
           - nicolekay2
           - sochotnicky
+          - tkasparek
+          - jdobes
         privacy: closed
         repos:
           ceph_drive_failure: read
