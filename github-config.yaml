@@ -27,34 +27,35 @@ orgs:
       - chargio
       - chauhankaranraj
       - dccurtis
+      - dgpatelgit
+      - falox
       - hemajv
       - HumairAK
       - ilya-kolchinsky
       - iNecas
       - isabelizimm
       - janzeleny
+      - jdobes
+      - joshuawilson
       - kholdaway
       - margarethaley
       - martinpovolny
       - mbacovsky
+      - mklika
+      - nicolekay2
+      - nstielau
       - oindrillac
+      - pacospace
+      - radekvokal
+      - ri-dubey
       - SankBad
       - Shreyanand
+      - smarterclayton
+      - sochotnicky
       - subpop
       - suppathak
-      - xiormeesh
-      - radekvokal
-      - mklika
-      - falox
-      - smarterclayton
-      - nstielau
-      - joshuawilson
-      - ri-dubey
-      - dgpatelgit
-      - nicolekay2
-      - sochotnicky
       - tkasparek
-      - jdobes
+      - xiormeesh
     members_can_create_repositories: false
     name: ""
     repos:
