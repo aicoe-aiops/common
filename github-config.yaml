@@ -315,6 +315,7 @@ orgs:
           - antter
           - amsaparov
           - margarethaley
+          - schwesig
         privacy: closed
         repos:
           ai-enablement-initiative: triage
