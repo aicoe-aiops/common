@@ -49,6 +49,7 @@ orgs:
       - radekvokal
       - ri-dubey
       - SankBad
+      - schwesig
       - Shreyanand
       - smarterclayton
       - sochotnicky
@@ -314,6 +315,7 @@ orgs:
           - antter
           - amsaparov
           - margarethaley
+          - schwesig
         privacy: closed
         repos:
           ai-enablement-initiative: triage
