@@ -5,13 +5,13 @@ approvers:
   - durandom
   - tumido
   - michaelclifford
+  - schwesig
 
 reviewers:
-  - 4n4nd
   - HumairAK
   - michaelclifford
-  - Shreyanand
   - durandom
+  - tumido
+  - Shreyanand
   - hemajv
   - oindrillac
-  - tumido
