@@ -1,12 +1,13 @@
 orgs:
   aicoe-aiops:
     admins:
-      - 4n4nd
+      - HumairAK
       - durandom
       - goern
       - harshad16
       - MichaelClifford
       - sesheta
+      - schwesig
       - tumido
     billing_email: mhild@redhat.com
     company: ""
@@ -17,6 +18,7 @@ orgs:
     has_repository_projects: false
     location: ""
     members:
+      - 4n4nd
       - aakankshaduggal
       - accorvin
       - adberglund
@@ -31,7 +33,6 @@ orgs:
       - dgpatelgit
       - falox
       - hemajv
-      - HumairAK
       - ilya-kolchinsky
       - iNecas
       - isabelizimm
@@ -50,7 +51,6 @@ orgs:
       - radekvokal
       - ri-dubey
       - SankBad
-      - schwesig
       - Shreyanand
       - smarterclayton
       - sochotnicky
@@ -302,7 +302,6 @@ orgs:
           - durandom
           - MichaelClifford
           - tumido
-          - 4n4nd
         members:
           - martinpovolny
           - hemajv
